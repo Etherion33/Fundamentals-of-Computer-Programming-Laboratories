@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485803424 source:c:\users\vanderlust\desktop\studia\focp\linkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

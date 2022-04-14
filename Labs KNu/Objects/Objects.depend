@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490697483 source:c:\users\vanderlust\desktop\studia\focp\objects\main.cpp
+	<iostream>
+	"Movie.h"
+	<string>
+
+1490697736 source:c:\users\vanderlust\desktop\studia\focp\objects\movie.cpp
+	"Movie.h"
+	<cstring>
+	<cstdlib>
+
+1490696644 c:\users\vanderlust\desktop\studia\focp\objects\movie.h
+	<iostream>
+

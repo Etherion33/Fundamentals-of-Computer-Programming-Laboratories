@@ -1,0 +1,89 @@
+pozytywizm:
+	Zapolska	Akwarele
+	Zapolska	 Moralnosc pani Dulskiej
+	Kraszewski	 Hrabina Cosel
+
+nowele:
+	Zapolska	Akwarele
+
+SZMATAJESTIBY£A:
+	Zapolska	Akwarele
+
+dramat:
+	Zapolska	 Moralnosc pani Dulskiej
+	Puszkin	   Eugeniusz Oniegin
+	Goethe	 faust
+	Schiller	 Zbojcy
+
+romantyzm:
+	Byron	 Giaur
+	Mickiewicz	 Grazyna
+	Malczewski	 Maria
+	Goethe   	Cierpienia mlodego    Wertera
+	Puszkin	   Eugeniusz Oniegin
+	Goethe	 faust
+	Schiller	 Zbojcy
+
+powiesc poetycka:
+	Byron	 Giaur
+	Mickiewicz	 Grazyna
+	Malczewski	 Maria
+
+KURWA:
+	Byron	 Giaur
+	Norwid	 Fortepian Szopena
+
+PNUSZMATA:
+	Mickiewicz	 Grazyna
+
+powiesc epistolarna:
+	Goethe   	Cierpienia mlodego    Wertera
+
+powiesc historyczna:
+	Kraszewski	 Hrabina Cosel
+
+romantyzm. liryka:
+	Norwid	 Fortepian Szopena
+
+TOJEST:
+	Puszkin	   Eugeniusz Oniegin
+
+opowiadania:
+	Schulz	 Sklepy cynamonowe
+
+literatura wspolczesna:
+	Schulz	 Sklepy cynamonowe
+
+odrodzenie:
+	Rabelais	 53532Gargantua i Pantagruel
+	Petrarka	 Do Laury
+	Cervantes	Don Kichote
+	Rej	 Krótka rozprawa
+	Kochanowski	Odprawa pos³ow greckich
+
+powieœæ:
+	Rabelais	 53532Gargantua i Pantagruel
+	Cervantes	Don Kichote
+	Defoe	 Przypadki Robinsona Crusoe
+
+poezja:
+	Petrarka	 Do Laury
+
+sonety:
+	Petrarka	 Do Laury
+
+oœeiecenie:
+	Konarski	 ^^>>@O skutecznym rad sposobie
+
+traktat:
+	Konarski	 ^^>>@O skutecznym rad sposobie
+
+dialog:
+	Rej	 Krótka rozprawa
+
+oœwiecenie:
+	Defoe	 Przypadki Robinsona Crusoe
+
+drama:
+	Kochanowski	Odprawa pos³ow greckich
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480032724 source:e:\onedrive\studia\focp\shortprogram\longest_word\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

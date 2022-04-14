@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484554628 source:c:\users\vanderlust\desktop\studia\focp\long_program\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

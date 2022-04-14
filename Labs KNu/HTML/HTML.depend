@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1492976625 source:c:\users\vanderlust\desktop\studia\focp\html\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1411198655 c:\users\vanderlust\desktop\studia\focp\html\libconfig.h
+	<stdio.h>
+

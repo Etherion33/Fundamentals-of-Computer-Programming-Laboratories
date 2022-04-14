@@ -1,0 +1,10 @@
+﻿  testing.cpp
+c:\users\kacper\testing\testing\testing.cpp(3): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\kacper\testing\testing\testing.cpp(3): note: command-line arguments:  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+  Source.cpp
+c:\users\kacper\testing\testing\source.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\kacper\testing\testing\source.cpp(114): warning C4018: '<': signed/unsigned mismatch
+c:\users\kacper\testing\testing\source.cpp(126): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  testing.vcxproj -> C:\Users\Kacper\testing\Debug\testing.exe
+  testing.vcxproj -> C:\Users\Kacper\testing\Debug\testing.pdb (Full PDB)

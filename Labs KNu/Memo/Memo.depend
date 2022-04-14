@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1481279474 source:c:\users\vanderlust\desktop\studia\focp\memo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

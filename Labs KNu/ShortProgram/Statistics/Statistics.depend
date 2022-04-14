@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476815004 source:d:\studia\focp\shortprogram\statistics\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,149 @@
+pozytywizm:
+	Zapolska	Akwarele
+	Zapolska	 Moralnosc pani Dulskiej
+	Kraszewski	 Hrabina Cosel
+
+nowele:
+	Zapolska	Akwarele
+
+nieprzeczytana:
+	Zapolska	Akwarele
+	Zapolska	 Moralnosc pani Dulskiej
+	Byron	 Giaur
+	Mickiewicz	 Grazyna
+	Malczewski	 Maria
+	Goethe	Cierpienia mlodego Wertera
+	Kraszewski	 Hrabina Cosel
+	Norwid	 Fortepian Szopena
+	Puszkin	 Eugeniusz Oniegin
+	Goethe	 faust
+	Schiller	 Zbojcy
+	Rabelais	 Gargantua i Pantagruel
+	Petrarka	 Do Laury
+	Cervantes	Don Kichote
+	Konarski	 O skutecznym rad sposobie
+	Rej	 Krótka rozprawa
+
+CZY¯BY:
+	Zapolska	Akwarele
+
+dramat:
+	Zapolska	 Moralnosc pani Dulskiej
+	Puszkin	 Eugeniusz Oniegin
+	Goethe	 faust
+	Schiller	 Zbojcy
+	Kochanowski	Odprawa pos³ow greckich
+
+romantyzm:
+	Byron	 Giaur
+	Mickiewicz	 Grazyna
+	Malczewski	 Maria
+	Goethe	Cierpienia mlodego Wertera
+	Norwid	 Fortepian Szopena
+	Puszkin	 Eugeniusz Oniegin
+	Goethe	 faust
+	Schiller	 Zbojcy
+
+powiesc poetycka:
+	Byron	 Giaur
+	Mickiewicz	 Grazyna
+	Malczewski	 Maria
+
+powiesc epistolarna:
+	Goethe	Cierpienia mlodego Wertera
+
+powiesc historyczna:
+	Kraszewski	 Hrabina Cosel
+
+liryka:
+	Norwid	 Fortepian Szopena
+
+opowiadania:
+	Schulz	 Sklepy cynamonowe
+
+literatura wspolczesna:
+	Schulz	 Sklepy cynamonowe
+
+przeczytana:
+	Schulz	 Sklepy cynamonowe
+	Defoe	 Przypadki Robinsona Crusoe
+	Shawn	 M³ode lwy
+	Remarque	 £uk triumfalny
+	Remarque	 Na zachodzie bez zmian
+	Remarque	 Na zachodzie bez zmian
+	McCarthy	 To nie jest kraj dla starych ludzi
+	Steinback	 Grona gniewu
+	Sapkowski	Wiedzmin
+	Dostojewski	 Idiota
+	Grass	 Blaszany bebenek
+
+odrodzenie:
+	Rabelais	 Gargantua i Pantagruel
+	Petrarka	 Do Laury
+	Cervantes	Don Kichote
+	Rej	 Krótka rozprawa
+	Kochanowski	Odprawa pos³ow greckich
+
+powieœæ:
+	Rabelais	 Gargantua i Pantagruel
+	Cervantes	Don Kichote
+	Defoe	 Przypadki Robinsona Crusoe
+
+poezja:
+	Petrarka	 Do Laury
+
+sonety:
+	Petrarka	 Do Laury
+
+oœeiecenie:
+	Konarski	 O skutecznym rad sposobie
+
+traktat:
+	Konarski	 O skutecznym rad sposobie
+
+dialog:
+	Rej	 Krótka rozprawa
+
+oœwiecenie:
+	Defoe	 Przypadki Robinsona Crusoe
+
+nieprzeczytana :
+	Kochanowski	Odprawa pos³ow greckich
+
+wojenna:
+	Shawn	 M³ode lwy
+	Remarque	 £uk triumfalny
+	Remarque	 Na zachodzie bez zmian
+
+zemsta:
+	Remarque	 £uk triumfalny
+
+ekranizowana:
+	McCarthy	 To nie jest kraj dla starych ludzi
+
+fabularna:
+	McCarthy	 To nie jest kraj dla starych ludzi
+
+obyczajowa:
+	Steinback	 Grona gniewu
+	Dostojewski	 Idiota
+	Niziurski	Raz w roku w skiro³awkach
+
+tragedia:
+	Steinback	 Grona gniewu
+
+fantasy:
+	Sapkowski	Wiedzmin
+
+romantyczna:
+	Dostojewski	 Idiota
+
+przedwojenna:
+	Grass	 Blaszany bebenek
+
+powiesc:
+	Grass	 Blaszany bebenek
+
+nieprzczytan:
+	Niziurski	Raz w roku w skiro³awkach
+

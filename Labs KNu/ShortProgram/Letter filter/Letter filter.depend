@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1477475507 source:d:\onedrive\studia\focp\shortprogram\letter filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480031040 source:e:\onedrive\studia\focp\shortprogram\letter filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1480598860 source:f:\studia\focp\shortprogram\letter filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1480671192 source:c:\users\vanderlust\desktop\studia\focp\shortprogram\letter filter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

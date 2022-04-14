@@ -1,0 +1,3 @@
+﻿  main.c
+e:\pulpit\studia\focp\labs pf\lab4\array\array\main.c(34): warning C4013: 'system' undefined; assuming extern returning int
+  Array.vcxproj -> E:\Pulpit\Studia\FoCP\Labs PF\Lab4\Array\Debug\Array.exe

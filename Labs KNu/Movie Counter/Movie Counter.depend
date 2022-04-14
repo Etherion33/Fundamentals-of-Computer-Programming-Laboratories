@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1495535159 source:c:\users\vanderlust\desktop\studia\focp\movie counter\library.cpp
+	"library.h"
+	"Movie.h"
+	<cstring>
+	<cstdlib>
+
+1495535152 c:\users\vanderlust\desktop\studia\focp\movie counter\library.h
+	"Movie.h"
+
+1490696644 c:\users\vanderlust\desktop\studia\focp\movie counter\movie.h
+	<iostream>
+
+1495535372 source:c:\users\vanderlust\desktop\studia\focp\movie counter\main.cpp
+	<iostream>
+	"Library.h"
+	"queue.h"
+
+1490697736 source:c:\users\vanderlust\desktop\studia\focp\movie counter\movie.cpp
+	"Movie.h"
+	<cstring>
+	<cstdlib>
+
+1494323240 source:c:\users\vanderlust\desktop\studia\focp\movie counter\stack.c
+	"stack.h"
+
+1493116879 c:\users\vanderlust\desktop\studia\focp\movie counter\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1495534957 source:c:\users\vanderlust\desktop\studia\focp\movie counter\queue.cpp
+	"queue.h"
+
+1495535564 c:\users\vanderlust\desktop\studia\focp\movie counter\queue.h
+	"Movie.h"
+	<iostream>
+	<string>
+

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Diff.cpp
+c:\users\vanderlust\desktop\studia\focp\diff\diff\diff\diff.cpp(22): warning C4101: 'tempchar': unreferenced local variable
+  Diff.vcxproj -> C:\Users\Vanderlust\Desktop\Studia\FoCP\Diff\Diff\Debug\Diff.exe
+  Diff.vcxproj -> C:\Users\Vanderlust\Desktop\Studia\FoCP\Diff\Diff\Debug\Diff.pdb (Partial PDB)

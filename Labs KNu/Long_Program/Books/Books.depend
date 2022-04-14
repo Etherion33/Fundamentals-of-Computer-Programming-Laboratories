@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1487273298 source:c:\users\vanderlust\desktop\studia\focp\long_program\books\main.c
+	"stack.h"
+	<string.h>
+
+1484223503 source:c:\users\vanderlust\desktop\studia\focp\long_program\books\label.c
+	"label.h"
+
+1484223579 c:\users\vanderlust\desktop\studia\focp\long_program\books\label.h
+	<stdlib.h>
+	<stdio.h>
+
+1482489516 source:c:\users\vanderlust\desktop\studia\focp\long_program\books\stack.c
+	"stack.h"
+
+1482489706 c:\users\vanderlust\desktop\studia\focp\long_program\books\stack.h
+	<stdlib.h>
+	<stdio.h>
+

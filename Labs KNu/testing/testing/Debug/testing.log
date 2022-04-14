@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\kacper\testing\testing\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\kacper\testing\testing\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\kacper\testing\testing\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  testing.vcxproj -> C:\Users\Kacper\testing\Debug\testing.exe
+  testing.vcxproj -> C:\Users\Kacper\testing\Debug\testing.pdb (Full PDB)

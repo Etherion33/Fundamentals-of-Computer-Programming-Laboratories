@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1480963918 source:f:\work\polsl\przedmioty\fundamentalsofcomputerprogramming\focp2016\dynamicstructures\stack\main.c
+	<time.h>
+	"stack.h"
+
+1480963918 f:\work\polsl\przedmioty\fundamentalsofcomputerprogramming\focp2016\dynamicstructures\stack\stack.h
+	<stdlib.h>
+	<stdio.h>
+
+1480963918 source:f:\work\polsl\przedmioty\fundamentalsofcomputerprogramming\focp2016\dynamicstructures\stack\stack.c
+	"stack.h"
+

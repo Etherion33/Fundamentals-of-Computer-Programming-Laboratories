@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\vanderlust\desktop\studia\focp\labs pf\lab1\lab1\lab1\source.c(20): warning C4013: 'system' undefined; assuming extern returning int
+  Lab1.vcxproj -> C:\Users\Vanderlust\Desktop\Studia\FoCP\Labs PF\Lab1\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\Vanderlust\Desktop\Studia\FoCP\Labs PF\Lab1\Lab1\Debug\Lab1.pdb (Partial PDB)
