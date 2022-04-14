@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\pulpit\studia\computer programming 3\labs\labs8\iostreams\iostreams\main.cpp(42): warning C4101: 'c': unreferenced local variable
+e:\pulpit\studia\computer programming 3\labs\labs8\iostreams\iostreams\main.cpp(41): warning C4101: 'ratio': unreferenced local variable
+  IOStreams.vcxproj -> E:\Pulpit\Studia\Computer Programming 3\Labs\Labs8\IOStreams\Debug\IOStreams.exe

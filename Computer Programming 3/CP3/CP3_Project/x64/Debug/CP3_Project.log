@@ -1,0 +1,7 @@
+﻿  Interface.cpp
+c:\users\maro9\desktop\cp3\cp3_project\rlutil.h(578): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\maro9\desktop\cp3\cp3_project\interface.cpp(1101): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\maro9\desktop\cp3\cp3_project\interface.cpp(1103): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\maro9\desktop\cp3\cp3_project\interface.cpp(1118): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\maro9\desktop\cp3\cp3_project\interface.cpp(1130): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CP3_Project.vcxproj -> C:\Users\maro9\Desktop\CP3\x64\Debug\CP3_Project.exe
